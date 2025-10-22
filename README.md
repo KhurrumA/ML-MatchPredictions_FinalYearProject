@@ -114,7 +114,7 @@ It uses **SHAP TreeExplainer** for tree-based models like RandomForest and XGBoo
 - Models achieve competitive prediction accuracy across historical data.
 - SHAP plots reveal the most impactful features (e.g., recent form, goals scored/conceded).
 
-*(You can add screenshots or graphs here from your evaluation notebook.)*
+
 
 ---
 
