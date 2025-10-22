@@ -26,7 +26,7 @@ It integrates:
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 ML-MatchPredictions_FinalYearProject/
@@ -64,7 +64,7 @@ ML-MatchPredictions_FinalYearProject/
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 ###  1. Start the FastAPI Backend
 ```bash
@@ -135,7 +135,7 @@ Final Year Project — Department of Computer Science University of Leicester (C
 
 ---
 
-## 🪪 License
+##  License
 
 This project is for educational purposes only.  
 You may modify and extend it for learning and research use.
