@@ -131,7 +131,7 @@ It uses **SHAP TreeExplainer** for tree-based models like RandomForest and XGBoo
 
 **Khurrum Arif**  
 Final Year Project — Department of Computer Science University of Leicester (Code recieved a First Class Mark)  
-*(University name can be added here)*
+
 
 ---
 
